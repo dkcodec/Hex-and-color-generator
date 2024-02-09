@@ -1,5 +1,4 @@
-Hex color generator
-_______________________________
+# Hex color generator
 You can try my app here: [Background Color Changer](https://dkcodec.github.io/Hex-and-color-generator/)
 
 The main idea was to create a random generator by a special(Hexadecimal number system) numeric system.
